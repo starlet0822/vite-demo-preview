@@ -1,1 +1,0 @@
-System.register([],(function(r){"use strict";return{execute:function(){r({i:function(r){return void 0===Array.isArray?"[object Array]"===Object.prototype.toString.call(r):Array.isArray(r)},u:function(){var r=navigator.userAgent,t=/android/i.test(r),i=/iphone|ipad|ipod/i.test(r);return t?"android":i?"ios":void 0}})}}}));

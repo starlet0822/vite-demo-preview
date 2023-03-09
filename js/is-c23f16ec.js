@@ -1,1 +1,0 @@
-function r(r){return void 0===Array.isArray?"[object Array]"===Object.prototype.toString.call(r):Array.isArray(r)}function t(){const r=navigator.userAgent,t=/android/i.test(r),i=/iphone|ipad|ipod/i.test(r);return t?"android":i?"ios":void 0}export{r as i,t as u};
