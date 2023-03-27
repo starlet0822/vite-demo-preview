@@ -1,0 +1,1 @@
+import{u as r}from"./vue-router-2cd4af54.js";import{D as a,u as e,c as s,o as t}from"./@vue-563ebafd.js";const u=a({name:"Redirect"}),o=Object.assign(u,{setup(a){const{currentRoute:u,replace:o}=r(),{params:c,query:p}=e(u),{path:i}=c;return o({path:"/"+(Array.isArray(i)?i.join("/"):i),query:p}),(r,a)=>(t(),s("div"))}});export{o as default};
