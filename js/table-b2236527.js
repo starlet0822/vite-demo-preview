@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-893979e1.js";import{ak as a,aI as r}from"./@vue-0da0c2e3.js";const s={class:"table-wrapper"};var t=e({},[["render",function(e,t){return r(),a("div",s,"Table")}],["__scopeId","data-v-e495e5b4"]]);export{t as default};
