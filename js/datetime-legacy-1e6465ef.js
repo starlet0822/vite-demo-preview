@@ -1,1 +1,0 @@
-System.register(["./dayjs-legacy-14735978.js"],(function(t){"use strict";var r;return{setters:[function(t){r=t.d}],execute:function(){t("f",(function(t){var e=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"YYYY-MM-DD HH:mm:ss";if(!t)return"";try{return r(t).format(e)||""}catch(n){return""}}))}}}));
