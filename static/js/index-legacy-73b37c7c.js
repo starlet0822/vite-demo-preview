@@ -1,1 +1,0 @@
-System.register(["./index-legacy-55ac2691.js"],(function(e,t){"use strict";var n;return{setters:[function(e){n=e.a2}],execute:function(){e({h:function(e){return String(e).replace(/(\d{3})\d{4}(\d{4})/,"$1****$2")},p:function(e){var t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:n;return+e/Number(t)+"rem"}})}}}));
