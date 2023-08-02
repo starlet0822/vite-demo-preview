@@ -1,1 +1,0 @@
-const a=(e=new Map)=>{const s=[];for(const[t,o]of e.entries()){const n={label:o,value:t};s.push(n)}return console.log("subItems:",s),s},p=new Map([["-1","全部"],["0","处理中"],["1","已完结"],["2","被退回"]]),c=new Map([["0","普通"],["1","售后"],["2","维修"]]),l=new Map([["0","普通"],["1","重要"],["2","紧急"],["3","特急"]]);export{a as g,l,c as o,p as s};
