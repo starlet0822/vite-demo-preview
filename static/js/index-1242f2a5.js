@@ -1,0 +1,1 @@
+import{am as i}from"./index-f8e6da5a.js";function u(e,t=i){return+e/Number(t)+"rem"}function c(e){return String(e).replace(/(\d{3})\d{4}(\d{4})/,"$1****$2")}const m=(e={},t=[])=>{for(const[o,n]of Object.entries(e)){const r=t.find(a=>a.key===o);r&&(r.value=n)}return t};export{m as d,c as h,u as p};

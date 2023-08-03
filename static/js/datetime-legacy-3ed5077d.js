@@ -1,0 +1,1 @@
+System.register(["./index-legacy-196f5c27.js","./calendar-legacy-13009040.js"],(function(e,t){"use strict";var r;return{setters:[function(e){r=e.O},null],execute:function(){e("f",(function(e){var t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"YYYY-MM-DD HH:mm:ss";if(!e)return"";try{return r(e).format(t)||""}catch(n){return""}}))}}}));
