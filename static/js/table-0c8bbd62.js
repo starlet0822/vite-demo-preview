@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{k as t,f as _}from"./index-997c5456.js";const a={},c={class:"table-wrapper"};function o(s,r){return _(),t("div",c,"Table")}const p=e(a,[["render",o],["__scopeId","data-v-e495e5b4"]]);export{p as default};
